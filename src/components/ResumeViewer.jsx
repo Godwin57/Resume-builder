@@ -4,7 +4,7 @@ function ResumeViewer({formData, setHideForm}) {
         
     return (
         <>
-            <div className="display-section">
+            <div className="resume-viewer">
                 <div className="per-info">
                     <h2>Personal Information</h2>
                     <p>Name: {name}</p>
